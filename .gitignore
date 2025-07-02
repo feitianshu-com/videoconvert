@@ -26,3 +26,4 @@ release
 dist-electron
 resources/
 !resources/icon.ico
+!resources/screenshot.png
