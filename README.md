@@ -6,7 +6,7 @@
 
 ## 运行
     yarn install    #安装依赖库
-    yarn run dev    #运行
+    yarn run dev    #运行 在超级管理员权限的CMD下执行
     yarn run build  #打包
 
 ## 系统要求
