@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 release
 dist-electron
-resources/
+resources/*
 !resources/icon.ico
 !resources/screenshot.png
