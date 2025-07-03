@@ -1,7 +1,7 @@
 # videoconvert
 
 ## 官网
-<a href="https://tool.feitianshu.com/video-convert/" target="_blank">飞天鼠</a>
+<a href="https://tool.feitianshu.com/video-convert/" ref="noopener">飞天鼠</a>
 
 ## ffmpeg
     下载ffmpeg并解压到resources目录下，最后的文件路径如: resources/ffmpeg.exe
